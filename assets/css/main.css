@@ -53,6 +53,10 @@ ul.nav {
 	text-align: center;
 }
 
+.skills-container p {
+	line-height: 1.8;
+}
+
 .skills {
     font-size: 35px;
     margin-top: 300px;
