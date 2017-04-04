@@ -53,7 +53,7 @@ ul.nav {
 	text-align: center;
 }
 
-.skills-container p {
+.skills-container p, .my-work-container p {
 	line-height: 1.8;
 }
 
@@ -79,6 +79,9 @@ ul.nav {
 	height: 100%;
 }
 
+.work-summary {
+	text-align: left;
+}
 
 
 @media only screen and (max-width: 500px) {
