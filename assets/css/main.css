@@ -96,6 +96,10 @@ ul.nav {
     transition: .5s;
 }
 
+.mini-container {
+	margin-bottom: 130px;
+}
+
 
 @media only screen and (max-width: 500px) {
     .title {
