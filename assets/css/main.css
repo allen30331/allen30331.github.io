@@ -49,22 +49,17 @@ ul.nav {
 
 
 /*skills section*/
+.skills-container {
+	text-align: center;
+}
 
 .skills {
-    text-align: center;
     font-size: 35px;
-    /*font-family: 'Muli', sans-serif;*/
 }
 
 .detail {
-	text-align: center;
 	font-size: 20px;
 }
-
-.skills-container h2 {
-	text-align: center;
-}
-
 
 
 /*my work section*/
