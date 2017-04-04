@@ -74,9 +74,9 @@ ul.nav {
 
 /*my work section*/
 
-.my-work-container h1 {
-	text-align: center;
-	/*font-family: 'Muli', sans-serif;*/
+.work-img {
+	width: 100%;
+	height: 100%;
 }
 
 
