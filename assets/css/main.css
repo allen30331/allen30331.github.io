@@ -49,7 +49,7 @@ ul.nav {
 
 
 /*skills section*/
-.skills-container, .my-work-container {
+.skills-container, .my-work-container, .contact-me-container {
 	text-align: center;
 }
 
@@ -101,6 +101,13 @@ ul.nav {
 }
 
 /*about me section*/
+
+
+
+/*footer*/
+.footer {
+	margin-top: 300px;
+}
 
 
 @media only screen and (max-width: 500px) {
