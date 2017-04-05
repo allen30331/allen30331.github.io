@@ -134,7 +134,7 @@ li a:hover {
 	margin-bottom: 130px;
 }
 
-img:hover {
+.work-img:hover {
 	opacity: .85;
 	transition: .5s;
 	cursor: pointer; 
