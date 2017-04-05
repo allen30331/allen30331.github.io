@@ -132,8 +132,32 @@ img:hover {
 }
 
 
+/*test*/
+
+.mobile {
+	display: none;
+}
+
+
 @media only screen and (max-width: 500px) {
     .title {
         font-size: 55px;
     }
+}
+
+
+@media only screen and (max-width: 639px) {
+    .desktop {
+    	display: none;
+    }
+
+
+    .mobile {
+        display: inline;
+    }
+
+    .work-img {
+    	margin-top: 45px;
+    }
+
 }
