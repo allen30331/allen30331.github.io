@@ -84,6 +84,12 @@ li a:hover {
 	color: #99cff5;
 }
 
+.skills-container ul {
+	padding-left: 0px;
+	list-style: none;
+	line-height: 1.8;
+}
+
 
 /*my work section*/
 
