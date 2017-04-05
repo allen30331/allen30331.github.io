@@ -143,6 +143,10 @@ img:hover {
     .title {
         font-size: 55px;
     }
+
+    ul.nav {
+    	padding-left: 0px
+    }
 }
 
 
