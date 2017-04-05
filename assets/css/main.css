@@ -165,7 +165,11 @@ img:hover {
 
     .nav li {
     	display: block;
-    	margin: 3px 0px;
+    	margin: 10px 0px;
+    }
+
+    .name {
+    	margin-top: 200px;
     }
 
 }
