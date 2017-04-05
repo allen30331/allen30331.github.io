@@ -140,13 +140,23 @@ img:hover {
 
 
 
-/*footer*/
-.footer {
-	margin-top: 300px;
+
+/*contact me section*/
+
+.contact-me-container {
+	margin-bottom: 300px;
 }
 
 
-/*test*/
+
+/*footer*/
+
+.footer-container {
+    border-top: 1px solid rgb(179, 179, 179);
+}
+
+
+
 
 .mobile {
 	display: none;
