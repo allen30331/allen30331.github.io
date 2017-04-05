@@ -57,7 +57,7 @@ ul.nav {
 	line-height: 1.8;
 }
 
-.skills, .my-work {
+.skills, .my-work, .about-me {
     font-size: 35px;
     margin-top: 300px;
 }
@@ -99,6 +99,8 @@ ul.nav {
 .mini-container {
 	margin-bottom: 130px;
 }
+
+/*about me section*/
 
 
 @media only screen and (max-width: 500px) {
