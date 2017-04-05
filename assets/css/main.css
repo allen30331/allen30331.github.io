@@ -156,12 +156,18 @@ img:hover {
 
     ul.nav {
     	padding-left: 0px;
-    	text-align: center;
+    	text-align: left;
     }
 
     .fa-code, .fa-magic {
     	margin-top: 50px;
     }
+
+    .nav li {
+    	display: block;
+    	margin: 3px 0px;
+    }
+
 }
 
 
