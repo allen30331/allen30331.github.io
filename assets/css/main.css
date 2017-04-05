@@ -90,6 +90,10 @@ li a:hover {
 	line-height: 1.8;
 }
 
+.tech {
+	margin-top: 50px;
+}
+
 
 /*my work section*/
 
@@ -152,6 +156,10 @@ img:hover {
 
     ul.nav {
     	padding-left: 0px
+    }
+
+    .fa-code, .fa-magic {
+    	margin-top: 50px;
     }
 }
 
