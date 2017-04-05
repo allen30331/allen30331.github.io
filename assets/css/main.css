@@ -23,6 +23,9 @@ body {
 header {
     border-bottom: 1px solid #b3b3b3;
     font-family: 'Raleway', sans-serif;
+    position: fixed;
+    width: 100%;
+    background-color: white;
 
 }
 
