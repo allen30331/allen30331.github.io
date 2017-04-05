@@ -147,6 +147,14 @@ img:hover {
 	margin-bottom: 300px;
 }
 
+.contact-me-container a {
+	text-decoration: none;
+	color: blue;
+}
+
+.contact-me-container a:hover {
+	color: #99CFF5;
+}
 
 
 /*footer*/
@@ -154,6 +162,8 @@ img:hover {
 .footer-container {
     border-top: 1px solid rgb(179, 179, 179);
 }
+
+
 
 
 
