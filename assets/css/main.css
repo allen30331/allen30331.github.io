@@ -62,11 +62,11 @@ li a:hover {
 
 
 /*skills section*/
-.skills-container, .my-work-container, .contact-me-container {
+.skills-container, .my-work-container, .about-me-container, .contact-me-container {
 	text-align: center;
 }
 
-.skills-container p, .my-work-container p {
+.skills-container p, .my-work-container p, .about-me-container p {
 	line-height: 1.8;
 }
 
