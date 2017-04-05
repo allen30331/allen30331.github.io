@@ -155,7 +155,8 @@ img:hover {
     }
 
     ul.nav {
-    	padding-left: 0px
+    	padding-left: 0px;
+    	text-align: center;
     }
 
     .fa-code, .fa-magic {
