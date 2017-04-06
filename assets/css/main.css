@@ -73,6 +73,16 @@ li a:hover {
 }
 
 
+/*about*/
+
+p.summary.about {
+    text-align: left;
+}
+
+
+
+
+
 /*skills section*/
 .skills-container, .my-work-container, .about-me-container, .contact-me-container {
 	text-align: center;
@@ -139,14 +149,6 @@ li a:hover {
 .mini-container {
 	margin-bottom: 130px;
 }
-
-
-
-
-
-
-
-/*about me section*/
 
 
 
