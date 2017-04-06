@@ -26,6 +26,7 @@ header {
     position: fixed;
     width: 100%;
     background-color: white;
+    z-index: 50;
 
 }
 
@@ -107,6 +108,9 @@ li a:hover {
 
 
 /*my work section*/
+.visit {
+	display: none;
+}
 
 .work-img {
 	width: 100%;
