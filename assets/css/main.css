@@ -92,7 +92,7 @@ p.summary.about {
 	line-height: 1.8;
 }
 
-.skills, .my-work, .about-me {
+.skills, .my-work, .about-me, .contact-me {
     font-size: 35px;
     margin-top: 205px;
 }
@@ -224,6 +224,10 @@ p.summary.about {
 
     .work-img {
     	margin-top: 45px;
+    }
+
+    .last {
+    	margin-bottom: 205px;
     }
 
 }
