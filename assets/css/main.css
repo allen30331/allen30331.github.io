@@ -10,7 +10,12 @@ body {
 	margin: 0px;
 }
 
-/*font-family: 'Muli', sans-serif;*/
+.border {
+    border-bottom: 1px solid grey;
+    width: 50%;
+    margin: auto;
+    margin-top: 110px
+}
 
 /*header section*/
 
@@ -94,7 +99,7 @@ p.summary.about {
 
 .skills, .my-work, .about-me, .contact-me {
     font-size: 35px;
-    margin-top: 205px;
+    margin-top: 155px;
 }
 
 .detail {
