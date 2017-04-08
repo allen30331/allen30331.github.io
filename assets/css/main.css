@@ -82,6 +82,8 @@ li a:hover {
 
 p.summary.about {
     text-align: left;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 
