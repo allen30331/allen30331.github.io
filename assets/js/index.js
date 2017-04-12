@@ -1,4 +1,3 @@
-alert('hello');
 
 $('a').click(function(){
     $('html, body').animate({
